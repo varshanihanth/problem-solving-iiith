@@ -20,5 +20,5 @@
   1. Repeat 1,2&3 steps of [[./Numerical Representation_Experiment_07.org]] 
   4. Don't choose a file to load and click on the compile button
 * Expected Result
-  1. Repeat [[./Numerical Representation_Experiment_07.org]] 
+  1. Repeat 1,2,3&4 steps of[[./Numerical Representation_Experiment_07.org]] 
 * Reviews/Comments
